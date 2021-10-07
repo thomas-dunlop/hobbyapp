@@ -42,6 +42,6 @@ def createAccount(request):
     group = Group.objects.get(name = 'Average_Users')
     user.groups.add(group)
     user.save()
-    login(request, user)
+    #login(request, user)
     url = json.dumps({'url':'/'})
     return HttpResponse(url)
