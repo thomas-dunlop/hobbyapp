@@ -77,13 +77,3 @@ Give credit here.
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to...
 
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
