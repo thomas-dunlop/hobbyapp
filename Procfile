@@ -1,0 +1,1 @@
+web: gunicorn hobbyapp.wsgi --log-file -
